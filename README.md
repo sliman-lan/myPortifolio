@@ -1,2 +1,2 @@
 # myPortifolio
-portiolio for all my projects i have did 
+portiolio for all my projects i did
